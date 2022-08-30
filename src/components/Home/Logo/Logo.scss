@@ -1,0 +1,19 @@
+.logo-container {
+    width: 400px;
+    height: 609px;
+    top: 0;
+    right: 15%;
+    bottom: 0;
+    left: auto;
+    animation: fadeIn 2s 1.8s backwards;
+    margin: auto;
+
+    img {
+        transform: rotateZ(10deg) !important;
+        margin-left: 250px;
+        width: 600px;
+        height: 600px;
+    }
+}
+
+
