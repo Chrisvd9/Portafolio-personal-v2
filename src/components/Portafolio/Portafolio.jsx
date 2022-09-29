@@ -5,6 +5,9 @@ import IMG2 from '../../assets/images/homepageferia.png';
 import IMG3 from '../../assets/images/blackjacksc.png';
 import IMG4 from '../../assets/images/quizapp.png';
 import IMG5 from '../../assets/images/shorturl.png';
+import IMG6 from '../../assets/images/ad-2.png';
+import IMG7 from '../../assets/images/app.png';
+import IMG8 from '../../assets/images/inicio.png';
 import Loader from 'react-loaders';
 
 
@@ -32,18 +35,39 @@ const data = [
         demo: 'https://chrisvd9.github.io/simple-blackjack-game/'
     },   
     {
-        id: 3,
+        id: 4,
         image: IMG4,
         title: 'Quizapp',
         github: 'https://github.com/Chrisvd9/quizapp',
         demo: 'https://quizappchris.herokuapp.com/'
     },
     {
-        id: 4,
+        id: 5,
         image: IMG5,
         title: 'Ushort',
         github: 'https://github.com/Chrisvd9/ShortUrls',
         demo: 'https://shorturls-production-fe26.up.railway.app/'
+    },
+    {
+        id: 6,
+        image: IMG6,
+        title: 'Administrador de pacientes Vet',
+        github: 'https://github.com/Chrisvd9/Administrador-de-pacientes-vet',
+        demo: 'https://clinquant-granita-a7b6f4.netlify.app/'
+    },
+    {
+        id: 7,
+        image: IMG7,
+        title: 'Administrador de gastos',
+        github: 'https://github.com/Chrisvd9/Administrador-de-gastos',
+        demo: 'https://bespoke-tulumba-ed6bd5.netlify.app/'
+    },
+    {
+        id: 8,
+        image: IMG8,
+        title: 'Cotizador de criptomonedas',
+        github: 'https://github.com/Chrisvd9/Cotizador-de-criptomonedas',
+        demo: 'https://frolicking-pastelito-9bf01d.netlify.app/'
     },
 
 

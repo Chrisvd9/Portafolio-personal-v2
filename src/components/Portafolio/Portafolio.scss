@@ -1,6 +1,6 @@
 .portafolio__container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 3.7rem;
     width: 500px; 
     height: 500px;
@@ -27,7 +27,7 @@ h3 {
 }
 
 .portafolio__item:hover {
-    border-color: var(--color-primary-vairant);
+    border-color: var(--color-primary-variant);
     background: transparent;
 }
 
@@ -89,6 +89,6 @@ h3 {
 }
 
 img {
-    width: 350px;
+    width: 290px;
     height: 150px;
 }
